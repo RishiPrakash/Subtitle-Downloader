@@ -16,7 +16,7 @@ pass /Users/Desktop/Movies
 
 #### Alternate way to run 
 * download jar file and run "java -jar jarFilename,replace jarFile with the name of jar,
-in this case it would be "SubDownloader"  
+in this case it would be "SubDownloader.jar"  
 * Follow 4th step from earlier option; 
 
 #### what's inside the code
