@@ -14,15 +14,16 @@ Download subtitles for all your movies automatically
 5. It will ask for folder name, give the full path till folder in which your Movies are stored. for eg. if movies are in /Users/Desktop/Movies/chakDeIndia.mkv
 pass /Users/Desktop/Movies 
 
-#### Alternate Install option
-* download jar file and run "java -jar jarFilename, follow 4th step from earlier option; replace jarFile with the name of jar,
-in this case it would be "SubDownloader"
+#### Alternate way to run 
+* download jar file and run "java -jar jarFilename,replace jarFile with the name of jar,
+in this case it would be "SubDownloader"  
+* Follow 4th step from earlier option; 
 
 #### what's inside the code
-* Uses subscene for downloading the subtitles
-* for each movie title it will download max. 5 zip files containing srt files
+* Uses subscene website for downloading the subtitles primiraly 
+* for each movie title it will download max. 5 zip files containing srt files 
 * creates one folder along movie file with <moviename>_Subs and keeps all zip files in it.
-* one hidden i.e commented option is to download from subDB also; but it is not very effective so it's not in use
+* one hidden i.e commented option is to download from subDB also; but it is not very effective so it's not in execution
 * currently it downloades Eng subtitles automatically.
 
 
