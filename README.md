@@ -9,8 +9,9 @@ Download subtitles for all your movies automatically
 #### How to run
 1. Import Java files locally
 2. Get jsoup jar file from internet and keep it in your referenced libraries folder
-3. Run project
-4. It will ask for folder name, give the full path till folder in which your Movies are stored. for eg. if movies are in /Users/Desktop/Movies/chakDeIndia.mkv
+3. Resolve Other dependencies 
+4. Run project
+5. It will ask for folder name, give the full path till folder in which your Movies are stored. for eg. if movies are in /Users/Desktop/Movies/chakDeIndia.mkv
 pass /Users/Desktop/Movies 
 
 #### Alternate Install option
